@@ -1,12 +1,12 @@
 {
-"name": "XTREME-XMD",
+"name": "kyrox2.0",
   "version": "1.0.0",
-  "description": "A WhatsApp Bot Created By Princextreme",
+  "description": "A WhatsApp Bot Created By kyrox",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name XTREME-XMD",
-    "stop": "pm2 stop XTREME-XMD",
-    "restart": "pm2 restart XTREME-XMD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name kyrox2.0",
+    "stop": "pm2 stop kyrox2.0",
+    "restart": "pm2 restart kyrox2.0"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.7.18",

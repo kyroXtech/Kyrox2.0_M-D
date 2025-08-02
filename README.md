@@ -1,24 +1,22 @@
-
-<h1 align="center">🚀 XTREME XMD</h1>
+<h1 align="center">👺 kyrox2.0</h1>
 
 <p align="center">
-  <img src="https://files.catbox.moe/jfbed2.jpg" width="300"/><br>
+  <img src="https://i.postimg.cc/jSY1Y03n/Screenshot-20230531-215658.png" width="300"/><br>
   <b>Fast, Powerful, and Stylish WhatsApp Bot built for fun and performance.</b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/PrinceXtremeX/XTREME-XMD"><img src="https://img.shields.io/github/stars/PrinceXtremeX/XTREME-XMD?style=flat-square&color=yellow"></a>
-  <a href="https://github.com/PrinceXtremeX/XTREME-XMD/fork"><img src="https://img.shields.io/github/forks/PrinceXtremeX/XTREME-XMD?style=flat-square&color=lightblue"></a>
-  <a href="https://whatsapp.com/channel/0029Vb9qyTY47XeJ7i0wcQ40"><img src="https://img.shields.io/badge/WhatsApp-Channel-25D366?style=flat-square&logo=whatsapp"></a>
-  <a href="https://github.com/PrinceXtremeX"><img src="https://img.shields.io/badge/Dev-Prince Xtreme-blueviolet?style=flat-square"></a>
+  <a href="https://github.com/kyroXtech/Kyrox-2.0_M-D.git"><img src="https://img.shields.io/github/stars/kyroXtech/kyrox-2.0_M-D?style=flat-square&color=yellow"></a>
+  <a href="https://https://github.com/kyroXtech/Kyrox-2.0_M-D/fork"><img src="https://img.shields.io/github/stars/kyroXtech/Kyrox-2.0_M-D?style=plastic&color=800080"></a>
+  <a href="https://whatsapp.com/channel/0029VbBB2LTFi8xaGjuupv2a"><img src="https://whatsapp.com/channel/0029VbBB2LTFi8xaGjuupv2a"></a>
+  <a href="https://github.com/kyrox-2.0-M-D"><img src="https://img.shields.io/badge/Kyrox--Powered-8A2BE2"></a>
 </p>
 
-**sᴇssɪᴏɴ ɪᴅ💫**
+**kyrox-tech**
 
-[![XTREME XMD SESSION](https://img.shields.io/badge/XTREME%20-XMD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://haiko-mdx-v2-session.onrender.com)
----
 
-🧠 **ғᴇᴀᴛᴜʀᴇs**
+
+🧠 **Kyrox-tech**
 
 - 🔁 ᴀᴜᴛᴏ ʀᴇsᴛᴀʀᴛ & ʙᴀɪʟᴇʏs ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ sᴜᴘᴘᴏʀᴛ  
 - 🔌 ᴅʏɴᴀᴍɪᴄ ᴘʟᴜɢɪɴ ʟᴏᴀᴅᴇʀ  
@@ -28,22 +26,20 @@
 
 ---
 
-🚀 **ᴏɴᴇ-ᴄʟɪᴄᴋ ᴅᴇᴘʟᴏʏ ᴏᴘᴛɪᴏɴs**
+🚀 **powered by kyrox-tech**
 
-⚡ ᴏᴘᴛɪʟɪɴᴋ
-[![Deploy with Optilink](https://img.shields.io/badge/Deploy%20Now-OptiLink-2ecc71?style=for-the-badge)]([https://optiklink.com/home])
+
 
 🌐 ʀᴇɴᴅᴇʀ
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/PrinceXtremeX/XTREME-XMD.git)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/kyroXtech/Kyrox-2.0_M-D.git)
 
 ☁️ ᴋᴏʏᴇʙ
 
-[![Koyeb](https://img.shields.io/badge/Deploy-Koyeb-00C2FF?style=for-the-badge&logo=koyeb)](https://www.koyeb.com)
 
 🛰️ ᴛᴀʟᴋᴅʀᴏᴠᴇ
 
-[![Talkdrove](https://img.shields.io/badge/Deploy-Talkdrove-orange?style=for-the-badge)](#)
+
 
 🔄 ɢɪᴛʜᴜʙ ᴀᴄᴛɪᴏɴs
 ᴅᴇᴘʟᴏʏ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ᴜsɪɴɢ `.yml` ᴡᴏʀᴋғʟᴏᴡ ɪɴsɪᴅᴇ ɢɪᴛʜᴜʙ ᴀᴄᴛɪᴏɴs.
@@ -104,8 +100,8 @@ jobs:
 🧰 ᴍᴀɴᴜᴀʟ ɪɴsᴛᴀʟʟᴀᴛɪᴏɴ
 
 ```ʙᴀsʜ
-git https://github.com/PrinceXtremeX/XTREME-XMD
-cd XTREME-XMD
+https://github.com/kyroXtech/Kyrox-2.0_M-D.git
+cd kyrox-2.0_M-D
 npm install
 node .
 ```
@@ -114,15 +110,15 @@ node .
 
 🔗 ᴜsᴇғᴜʟ ʟɪɴᴋs
 
-[![Join Our WhatsApp Channel](https://img.shields.io/badge/Join%20Channel-WhatsApp-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb9qyTY47XeJ7i0wcQ40)
+[![Join Our WhatsApp Groupe](https://chat.whatsapp.com/FNrzuYDoevzLbrmCwxRLWw?mode=ac_t)]
+[![Join our community](https://whatsapp.com/channel/0029VbBB2LTFi8xaGjuupv2a)
 ---
 
-👑 Credits
+👺 Credits
 
 > *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴘʀɪɴᴄᴇ xᴛʀᴇᴍᴇ*  
-> ᴄᴏɴᴛᴀᴄᴛ: `528145550802`
+> ᴄᴏɴᴛᴀᴄᴛ: `50935420142`
 
 ---
 
-*©️ 2025 – xᴛʀᴇᴍᴇ-xᴍᴅ | ᴀʟʟ ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ*
-
+*©️ 2025 – kyrox-tech👺*
